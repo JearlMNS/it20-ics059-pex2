@@ -18,7 +18,9 @@ public class Linky {
         System.out.println("insert 100");
         list.display();
         System.out.println();
-        
+
+         //list.
+        //System.out.println("Searh 103: " + list.search(103));
         list.delete(103);
         System.out.println("Delete 103:");
         list.display();
