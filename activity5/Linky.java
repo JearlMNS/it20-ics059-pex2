@@ -20,7 +20,7 @@ public class Linky {
         System.out.println();
 
          //list.search(103);
-        //System.out.println("Searh 103: " + list.search(103));
+        //System.out.println("Search 103: " + list.search(103));
         //list.display();
 
         list.delete(103);
