@@ -19,8 +19,10 @@ public class Linky {
         list.display();
         System.out.println();
 
-         //list.
+         //list.search(103);
         //System.out.println("Searh 103: " + list.search(103));
+        //list.display();
+
         list.delete(103);
         System.out.println("Delete 103:");
         list.display();
